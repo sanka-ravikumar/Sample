@@ -1,1 +1,2 @@
-This is my first file to test the git
+This is my first file to test the git, 
+Starting my git journey again today
